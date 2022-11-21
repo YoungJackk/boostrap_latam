@@ -1,0 +1,64 @@
+.card{
+    width: 18rem;
+    margin-top: 30px;
+
+}
+
+.card-text{
+    color: #212529 ;
+    font-family: 'Roboto, light', sans-serif;
+    font-size: 20pt;
+    font-weight: lighter;
+    
+}
+
+.texto-gris {
+    color: #707070 ;
+    font-size: 16pt;
+    font-weight: lighter;
+}
+
+.direccion{
+    margin-top: -20px;
+    color: #707070 ;
+    font-size: 11pt;
+    font-weight: lighter;
+}
+
+.precio1 {
+    color: #707070 ;
+    font-size: 13pt;
+    font-weight: lighter;
+
+}
+
+.precio2 {
+    margin-top: -10px;
+    color: #28A745;
+    font-size: 20pt;
+    font-weight: bold;
+}
+
+.formulario{
+    background-color: #28A745;
+}
+
+.tituloformulario {
+    color: #ffffff ;
+    font-family: 'Roboto, light', sans-serif;
+    font-size: 20pt;
+    font-weight: bold;
+}
+
+.fotofooter{
+    width: 82px;
+    height: 24px ;
+
+}
+
+.texto-footer{
+    font-family: 'Roboto, light', sans-serif;
+    color: #707070 ;
+    font-size: 11pt;
+    font-weight: lighter;
+}
